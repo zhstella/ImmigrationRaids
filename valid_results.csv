@@ -1,0 +1,589 @@
+CountyName, ST, arrestdate, date_start_para, date_end_para, source_title, source_link, publish_date, gpt_explanation(four questions: 1. Does this text mention location or state?; 2. Is the text related to immigration raids/arrests?; 3. Does this text mention the date and is the date of this immigration raid between {start} and {end}?; 4. Does this text confirm that the raid was conducted by Immigration and Customs Enforcement? Explicitly say yes or no in the first word of your responses along with your explanation.), StateCountyFIPS, FIPSState, FIPSCounty
+Oklahoma,OK,2/8/2017,02/06/17,02/22/2017,ICE Arrests Stir Fear in Immigrants Wary of Trump Orders,https://www.nbcnews.com/news/latino/ice-arrests-stir-fear-immigrants-wary-trump-orders-n719626,"Feb 10, 2017","1. yes, the text explicitly mentions oklahoma city. it is included in a list of places where increased ice activity was reported.
+
+2. yes, the text is explicitly related to immigration raids and arrests. it discusses the impact of ice arrests on communities, the operations conducted by ice, and the reactions of both organizations and individuals.
+
+3. yes, the text mentions the date ""feb. 10, 2017"" and updates on the activities around that date which is close to 2/8/2017. the article provides information specific to the events and responses around this time period.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses ice's operations and acknowledges their actions during the enforcement surge described.",40109,40,109
+Oklahoma,OK,2/8/2017,02/06/17,02/22/2017,"The first immigration raids of the Trump era, explained",https://www.vox.com/policy-and-politics/2017/2/14/14596640/immigration-ice-raids,"Feb 14, 2017","1. yes, the text explicitly mentions oklahoma city, oklahoma in the context of locations where ice enforcement sweeps were reported.
+
+2. yes, the text is primarily related to immigration raids and arrests, discussing the specifics and implications of such actions taken by ice in various parts of the united states during the early period of the trump administration.
+
+3. yes, the text references a specific date when mentioning the publication time as ""feb 14, 2017,"" and it discusses events occurring ""in the past week"" from that date, which includes around the date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice), detailing their actions and strategies during the recent sweeps mentioned in the document.",40109,40,109
+Oklahoma,OK,2/8/2017,02/06/17,02/22/2017,"Under Trump order, immigration agents raid 'target-rich' ...",https://www.dallasnews.com/news/immigration/2017/02/11/under-trump-order-immigration-agents-raid-target-rich-communities-in-texas-elsewhere/,"Feb 10, 2017","1. yes, the text mentions ""oklahoma sooners"" under the section listing various sports teams.
+   
+2. yes, the text is significantly focused on immigration raids and arrests. it discusses a series of raids targeting unauthorized immigrants in at least a half-dozen states, which were the result of president donald trump's executive order aimed at cracking down on unauthorized immigrants.
+
+3. yes, the text mentions specific dates like february 7th and february 10th, 2017. this places it around the mentioned date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice). it details various operations carried out by ice targeting immigration fugitives, re-entrants, and at-large criminal aliens, describing enforcement actions in locations such as los angeles and other states.",40109,40,109
+Oklahoma,OK,2/9/2017,02/07/17,02/23/2017,ICE Arrests Stir Fear in Immigrants Wary of Trump Orders,https://www.nbcnews.com/news/latino/ice-arrests-stir-fear-immigrants-wary-trump-orders-n719626,"Feb 10, 2017","1. yes, the text explicitly mentions oklahoma city. it is included in a list of places where increased ice activity was reported.
+
+2. yes, the text is explicitly related to immigration raids and arrests. it discusses the impact of ice arrests on communities, the operations conducted by ice, and the reactions of both organizations and individuals.
+
+3. yes, the text mentions the date ""feb. 10, 2017"" and updates on the activities around that date which is close to 2/8/2017. the article provides information specific to the events and responses around this time period.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses ice's operations and acknowledges their actions during the enforcement surge described.",40109,40,109
+Oklahoma,OK,2/9/2017,02/07/17,02/23/2017,"The first immigration raids of the Trump era, explained",https://www.vox.com/policy-and-politics/2017/2/14/14596640/immigration-ice-raids,"Feb 14, 2017","1. yes, the text explicitly mentions oklahoma city, oklahoma in the context of locations where ice enforcement sweeps were reported.
+
+2. yes, the text is primarily related to immigration raids and arrests, discussing the specifics and implications of such actions taken by ice in various parts of the united states during the early period of the trump administration.
+
+3. yes, the text references a specific date when mentioning the publication time as ""feb 14, 2017,"" and it discusses events occurring ""in the past week"" from that date, which includes around the date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice), detailing their actions and strategies during the recent sweeps mentioned in the document.",40109,40,109
+Oklahoma,OK,2/9/2017,02/07/17,02/23/2017,"Under Trump order, immigration agents raid 'target-rich' ...",https://www.dallasnews.com/news/immigration/2017/02/11/under-trump-order-immigration-agents-raid-target-rich-communities-in-texas-elsewhere/,"Feb 10, 2017","1. yes, the text mentions ""oklahoma sooners"" under the section listing various sports teams.
+   
+2. yes, the text is significantly focused on immigration raids and arrests. it discusses a series of raids targeting unauthorized immigrants in at least a half-dozen states, which were the result of president donald trump's executive order aimed at cracking down on unauthorized immigrants.
+
+3. yes, the text mentions specific dates like february 7th and february 10th, 2017. this places it around the mentioned date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice). it details various operations carried out by ice targeting immigration fugitives, re-entrants, and at-large criminal aliens, describing enforcement actions in locations such as los angeles and other states.",40109,40,109
+Oklahoma,OK,2/13/2017,02/11/17,02/27/2017,ICE Arrests Stir Fear in Immigrants Wary of Trump Orders,https://www.nbcnews.com/news/latino/ice-arrests-stir-fear-immigrants-wary-trump-orders-n719626,"Feb 10, 2017","1. yes, the text explicitly mentions oklahoma city. it is included in a list of places where increased ice activity was reported.
+
+2. yes, the text is explicitly related to immigration raids and arrests. it discusses the impact of ice arrests on communities, the operations conducted by ice, and the reactions of both organizations and individuals.
+
+3. yes, the text mentions the date ""feb. 10, 2017"" and updates on the activities around that date which is close to 2/8/2017. the article provides information specific to the events and responses around this time period.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses ice's operations and acknowledges their actions during the enforcement surge described.",40109,40,109
+Oklahoma,OK,2/13/2017,02/11/17,02/27/2017,"The first immigration raids of the Trump era, explained",https://www.vox.com/policy-and-politics/2017/2/14/14596640/immigration-ice-raids,"Feb 14, 2017","1. yes, the text explicitly mentions oklahoma city, oklahoma in the context of locations where ice enforcement sweeps were reported.
+
+2. yes, the text is primarily related to immigration raids and arrests, discussing the specifics and implications of such actions taken by ice in various parts of the united states during the early period of the trump administration.
+
+3. yes, the text references a specific date when mentioning the publication time as ""feb 14, 2017,"" and it discusses events occurring ""in the past week"" from that date, which includes around the date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice), detailing their actions and strategies during the recent sweeps mentioned in the document.",40109,40,109
+Oklahoma,OK,7/19/2016,07/17/16,08/02/2016,Immigration raid hits site in Oklahoma City,http://www.newson6.com/story/5e368d502f69d76f620a4d60/oklahoma-city-bombing-victims,N/A,"1. yes, the text explicitly mentions ""oklahoma city"" and ""tulsa"" which are locations in oklahoma (ok).
+
+2. yes, the text is related to immigration raids/arrests. it specifically discusses a raid at the south oklahoma city office of a company where federal immigration officials arrested multiple workers and managers as part of a nationwide crackdown.
+
+3. yes, the text mentions a specific date. it states ""friday, april 21st, 2006,"" which is the date when the article about the immigration raid was written by ""news on 6."" however, this is not around the date of 7/19/2016; it is much earlier.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it mentions that ice agents arrested several current and former managers and workers at an ifco systems site as part of their operations.",40109,40,109
+Hennepin,MN,6/8/2017,06/06/17,06/22/2017,When fare evasion leads to deportations,https://archive.thinkprogress.org/fare-evasion-deportation-9945533d5429/,"Jun 1, 2017","1. yes, the text mentions ""hennepin county sheriff’s office"" and ""mn"" which refers to minnesota. hennepin is mentioned in context to where ariel vences-lopez was initially held and minnesota (mn) is mentioned concerning where the incident and his latter custody took place.
+
+2. yes, the text is related to immigration raids/arrests as it discusses the arrest of ariel vences-lopez leading to his deportation proceedings and describes broader immigration enforcement practices that have expanded under the trump administration which includes more frequent raids and arrests of immigrants. the text also generalizes about immigration arrests since president trump took office.
+
+3. yes, the text mentions a specific date when describing the events around ariel vences-lopez's detention and immigration actions by referencing that these events occurred and were known before ""the video of the interaction was posted"" on may 16th. while it does not directly mention the date 6/8/2017, it indicates events around this period, close to the mentioned date in your query.
+
+4. yes, the text confirms that the raid (arrest leading to deportation proceedings) was conducted by immigration and customs enforcement (ice). it mentions that vences-lopez was turned over to ice after being released from the hennepin county sheriff’s custody and was awaiting deportation proceedings at the sherburne county facility in minnesota, clearly implicating ice's involvement in the process.",27053,27,53
+Hennepin,MN,8/8/2017,08/06/17,08/22/2017,When fare evasion leads to deportations,https://archive.thinkprogress.org/fare-evasion-deportation-9945533d5429/,"Jun 1, 2017","1. yes, the text mentions ""hennepin county sheriff’s office"" and ""mn"" which refers to minnesota. hennepin is mentioned in context to where ariel vences-lopez was initially held and minnesota (mn) is mentioned concerning where the incident and his latter custody took place.
+
+2. yes, the text is related to immigration raids/arrests as it discusses the arrest of ariel vences-lopez leading to his deportation proceedings and describes broader immigration enforcement practices that have expanded under the trump administration which includes more frequent raids and arrests of immigrants. the text also generalizes about immigration arrests since president trump took office.
+
+3. yes, the text mentions a specific date when describing the events around ariel vences-lopez's detention and immigration actions by referencing that these events occurred and were known before ""the video of the interaction was posted"" on may 16th. while it does not directly mention the date 6/8/2017, it indicates events around this period, close to the mentioned date in your query.
+
+4. yes, the text confirms that the raid (arrest leading to deportation proceedings) was conducted by immigration and customs enforcement (ice). it mentions that vences-lopez was turned over to ice after being released from the hennepin county sheriff’s custody and was awaiting deportation proceedings at the sherburne county facility in minnesota, clearly implicating ice's involvement in the process.",27053,27,53
+Hennepin,MN,12/21/2017,12/19/17,01/04/2018,When fare evasion leads to deportations,https://archive.thinkprogress.org/fare-evasion-deportation-9945533d5429/,"Jun 1, 2017","1. yes, the text mentions ""hennepin county sheriff’s office"" and ""mn"" which refers to minnesota. hennepin is mentioned in context to where ariel vences-lopez was initially held and minnesota (mn) is mentioned concerning where the incident and his latter custody took place.
+
+2. yes, the text is related to immigration raids/arrests as it discusses the arrest of ariel vences-lopez leading to his deportation proceedings and describes broader immigration enforcement practices that have expanded under the trump administration which includes more frequent raids and arrests of immigrants. the text also generalizes about immigration arrests since president trump took office.
+
+3. yes, the text mentions a specific date when describing the events around ariel vences-lopez's detention and immigration actions by referencing that these events occurred and were known before ""the video of the interaction was posted"" on may 16th. while it does not directly mention the date 6/8/2017, it indicates events around this period, close to the mentioned date in your query.
+
+4. yes, the text confirms that the raid (arrest leading to deportation proceedings) was conducted by immigration and customs enforcement (ice). it mentions that vences-lopez was turned over to ice after being released from the hennepin county sheriff’s custody and was awaiting deportation proceedings at the sherburne county facility in minnesota, clearly implicating ice's involvement in the process.",27053,27,53
+Mobile,AL,2/13/2017,02/11/17,02/27/2017,ICE raids have 'blown up' in Alabama since Trump ...,https://www.al.com/news/2017/03/ice_raids_have_blown_up_in_ala.html,"Mar 1, 2017","1. yes, the text mentions mobile, al. the locations listed include alabama (al) areas such as birmingham, huntsville, mobile, montgomery, and tuscaloosa.
+
+2. yes, the text is related to immigration raids/arrests. it discusses how u.s. immigration and customs enforcement (ice) agents are conducting raids in alabama, detailing increased detentions of undocumented immigrants under new trump administration orders.
+
+3. yes, the text mentions the date as being published on march 01, 2017, which is close to the date you asked about, 2/13/2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement. it specifically mentions ice agents preparing for and conducting raids, and it discusses the agency's activities in relation to the new immigration enforcement policies.",1097,1,97
+Mobile,AL,2/16/2017,02/14/17,03/02/2017,ICE raids have 'blown up' in Alabama since Trump ...,https://www.al.com/news/2017/03/ice_raids_have_blown_up_in_ala.html,"Mar 1, 2017","1. yes, the text mentions mobile, al. the locations listed include alabama (al) areas such as birmingham, huntsville, mobile, montgomery, and tuscaloosa.
+
+2. yes, the text is related to immigration raids/arrests. it discusses how u.s. immigration and customs enforcement (ice) agents are conducting raids in alabama, detailing increased detentions of undocumented immigrants under new trump administration orders.
+
+3. yes, the text mentions the date as being published on march 01, 2017, which is close to the date you asked about, 2/13/2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement. it specifically mentions ice agents preparing for and conducting raids, and it discusses the agency's activities in relation to the new immigration enforcement policies.",1097,1,97
+Mobile,AL,2/23/2017,02/21/17,03/09/2017,ICE raids have 'blown up' in Alabama since Trump ...,https://www.al.com/news/2017/03/ice_raids_have_blown_up_in_ala.html,"Mar 1, 2017","1. yes, the text mentions mobile, al. the locations listed include alabama (al) areas such as birmingham, huntsville, mobile, montgomery, and tuscaloosa.
+
+2. yes, the text is related to immigration raids/arrests. it discusses how u.s. immigration and customs enforcement (ice) agents are conducting raids in alabama, detailing increased detentions of undocumented immigrants under new trump administration orders.
+
+3. yes, the text mentions the date as being published on march 01, 2017, which is close to the date you asked about, 2/13/2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement. it specifically mentions ice agents preparing for and conducting raids, and it discusses the agency's activities in relation to the new immigration enforcement policies.",1097,1,97
+Arapahoe,CO,3/3/2015,03/01/15,03/17/2015,Immigrant Advocates Gather After Dairy Raid,https://www.cbsnews.com/colorado/news/immigrant-advocates-gather-after-dairy-raid/,N/A,"1. yes, the text mentions ""arapahoe county news"" under the list of news sections, thereby explicitly referring to arapahoe county in colorado.
+
+2. yes, the text is related to immigration raids/arrests. it discusses a community forum involving immigrant advocates and lawyers who met with people affected by immigration raids at a dairy in fort morgan, colorado.
+
+3. yes, the text mentions the date, which is june 4, 2011. this is not around the date of 3/3/2015.
+
+4. yes, the text confirms that the raid was conducted by u.s. immigration and customs enforcement. it states that the u.s. immigration and customs enforcement noted the people arrested were using fraudulent ""green cards"" and social security cards.",8005,8,5
+Arapahoe,CO,6/7/2016,06/05/16,06/21/2016,Immigrant Advocates Gather After Dairy Raid,https://www.cbsnews.com/colorado/news/immigrant-advocates-gather-after-dairy-raid/,N/A,"1. yes, the text mentions ""arapahoe county news"" under the list of news sections, thereby explicitly referring to arapahoe county in colorado.
+
+2. yes, the text is related to immigration raids/arrests. it discusses a community forum involving immigrant advocates and lawyers who met with people affected by immigration raids at a dairy in fort morgan, colorado.
+
+3. yes, the text mentions the date, which is june 4, 2011. this is not around the date of 3/3/2015.
+
+4. yes, the text confirms that the raid was conducted by u.s. immigration and customs enforcement. it states that the u.s. immigration and customs enforcement noted the people arrested were using fraudulent ""green cards"" and social security cards.",8005,8,5
+Arapahoe,CO,4/2/2017,03/31/17,04/16/2017,Attorney Hans Meyer Speaks Up for Denver's Immigrant ...,https://www.westword.com/news/immigration-attorney-hans-meyer-takes-on-ice-and-trumps-executive-order-8959502,"Apr 10, 2017","1. yes, the text mentions arapahoe, co. specifically, it discusses claudia valdez, who was apprehended by ice on a detainer in arapahoe county, and how her case influenced local policies regarding immigration detainers.
+
+2. yes, the text is related to immigration raids/arrests. it discusses multiple cases involving ice arrests, including those that occurred within courthouses as well as the case of jeanette vizguerra, who took sanctuary to avoid deportation.
+
+3. yes, the text mentions the date and it is around the date of 4/2/2017. the events described, such as the sanctuary of jeanette vizguerra and dialogues with denver officials, align closely to the time frame discussed (early 2017), with references to actions and policy reactions during the early days of the trump administration, which began in january 2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it explicitly discusses ice agents operating in denver courthouses and mentions the controversy around ice's practices, which includes intercepting individuals inside such government facilities without adequate warrants or notifying local authorities.",8005,8,5
+Arapahoe,CO,5/11/2017,05/09/17,05/25/2017,Immigrant Advocates Gather After Dairy Raid,https://www.cbsnews.com/colorado/news/immigrant-advocates-gather-after-dairy-raid/,N/A,"1. yes, the text mentions ""arapahoe county news"" under the list of news sections, thereby explicitly referring to arapahoe county in colorado.
+
+2. yes, the text is related to immigration raids/arrests. it discusses a community forum involving immigrant advocates and lawyers who met with people affected by immigration raids at a dairy in fort morgan, colorado.
+
+3. yes, the text mentions the date, which is june 4, 2011. this is not around the date of 3/3/2015.
+
+4. yes, the text confirms that the raid was conducted by u.s. immigration and customs enforcement. it states that the u.s. immigration and customs enforcement noted the people arrested were using fraudulent ""green cards"" and social security cards.",8005,8,5
+Arapahoe,CO,1/11/2018,01/09/18,01/25/2018,ICE Raids Several 7-Eleven's In Denver Amid Nationwide ...,https://www.cbsnews.com/colorado/news/ice-7eleven-denver-raids/,"Jan 10, 2018","1. yes, the text mentions arapahoe county news under the segments where various colorado news are listed.
+
+2. yes, the text is related to immigration raids/arrests. it specifically discusses a nationwide sweep conducted by immigration enforcement officers that included raids on several 7-eleven stores in denver.
+
+3. yes, the text mentions the date as ""january 10, 2018"" which is around the date of 1/11/2018.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). the text mentions a statement by derek benner, acting head of ice's homeland security investigations, regarding the audits and inspections as part of the enforcement actions.",8005,8,5
+Arapahoe,CO,1/29/2018,01/27/18,02/12/2018,ICE Raids Several 7-Eleven's In Denver Amid Nationwide ...,https://www.cbsnews.com/colorado/news/ice-7eleven-denver-raids/,"Jan 10, 2018","1. yes, the text mentions arapahoe county news under the segments where various colorado news are listed.
+
+2. yes, the text is related to immigration raids/arrests. it specifically discusses a nationwide sweep conducted by immigration enforcement officers that included raids on several 7-eleven stores in denver.
+
+3. yes, the text mentions the date as ""january 10, 2018"" which is around the date of 1/11/2018.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). the text mentions a statement by derek benner, acting head of ice's homeland security investigations, regarding the audits and inspections as part of the enforcement actions.",8005,8,5
+Hartford,CT,5/1/2017,04/29/17,05/15/2017,Connecticut Mosque Leader Detained by ICE on ...,https://www.nbcnews.com/news/asian-america/connecticut-mosque-leader-detained-ice-deportation-order-n763281,"May 22, 2017","1. yes, the text mentions hartford, ct. it states that hafiz abdul hannan was initially detained in hartford, connecticut, before being transferred to a facility in boston.
+
+2. yes, the text is related to immigration raids/arrests. it discusses the arrest of hafiz abdul hannan, a connecticut mosque leader, by u.s. immigration and customs enforcement (ice) on an outstanding deportation order.
+
+3. yes, the text mentions the date explicitly as being updated on may 22, 2017, which is around the date of 5/1/2017, falling within the same month.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it mentions that ice arrested the imam and that an ice spokesman provided details about the deportation order and the reasons for his detention.",9003,9,3
+Hartford,CT,5/3/2017,05/01/17,05/17/2017,Connecticut Mosque Leader Detained by ICE on ...,https://www.nbcnews.com/news/asian-america/connecticut-mosque-leader-detained-ice-deportation-order-n763281,"May 22, 2017","1. yes, the text mentions hartford, ct. it states that hafiz abdul hannan was initially detained in hartford, connecticut, before being transferred to a facility in boston.
+
+2. yes, the text is related to immigration raids/arrests. it discusses the arrest of hafiz abdul hannan, a connecticut mosque leader, by u.s. immigration and customs enforcement (ice) on an outstanding deportation order.
+
+3. yes, the text mentions the date explicitly as being updated on may 22, 2017, which is around the date of 5/1/2017, falling within the same month.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it mentions that ice arrested the imam and that an ice spokesman provided details about the deportation order and the reasons for his detention.",9003,9,3
+Hartford,CT,5/9/2017,05/07/17,05/23/2017,Connecticut Mosque Leader Detained by ICE on ...,https://www.nbcnews.com/news/asian-america/connecticut-mosque-leader-detained-ice-deportation-order-n763281,"May 22, 2017","1. yes, the text mentions hartford, ct. it states that hafiz abdul hannan was initially detained in hartford, connecticut, before being transferred to a facility in boston.
+
+2. yes, the text is related to immigration raids/arrests. it discusses the arrest of hafiz abdul hannan, a connecticut mosque leader, by u.s. immigration and customs enforcement (ice) on an outstanding deportation order.
+
+3. yes, the text mentions the date explicitly as being updated on may 22, 2017, which is around the date of 5/1/2017, falling within the same month.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it mentions that ice arrested the imam and that an ice spokesman provided details about the deportation order and the reasons for his detention.",9003,9,3
+Cowlitz,WA,3/25/2017,03/23/17,04/08/2017,ICE arrests 84 people during 3-day sweep of Pacific ...,https://www.kgw.com/article/news/local/ice-arrests-84-people-during-3-day-sweep-of-pacific-northwest/283-426890395,"Apr 7, 2017","1. yes, the text explicitly mentions ""wa,"" which stands for washington, as part of the locations where the ice arrests occurred. it states clearly that undocumented immigrants in oregon and washington were arrested during a three-day sweep.
+
+2. yes, the text is related to immigration raids/arrests. it details a specific operation conducted by u.s. immigration and customs enforcement (ice) where 84 undocumented immigrants were arrested over a three-day period in the pacific northwest (oregon and washington).
+
+3. yes, the text mentions specific dates related to the event, specifically noting that the ice sweep took place from march 25 - march 27. this is very close to the date of 3/22/2017 but not exactly on it. the article itself was published on april 7, 2017.
+
+4. yes, the text confirms that the raid was conducted by u.s. immigration and customs enforcement (ice). it mentions ice's direct involvement, that ice announced the arrests, and discusses ice's authority and targeted enforcement operations throughout the text.",53015,53,15
+Cowlitz,WA,4/11/2017,04/09/17,04/25/2017,ICE arrests 84 people during 3-day sweep of Pacific ...,https://www.kgw.com/article/news/local/ice-arrests-84-people-during-3-day-sweep-of-pacific-northwest/283-426890395,"Apr 7, 2017","1. yes, the text explicitly mentions ""wa,"" which stands for washington, as part of the locations where the ice arrests occurred. it states clearly that undocumented immigrants in oregon and washington were arrested during a three-day sweep.
+
+2. yes, the text is related to immigration raids/arrests. it details a specific operation conducted by u.s. immigration and customs enforcement (ice) where 84 undocumented immigrants were arrested over a three-day period in the pacific northwest (oregon and washington).
+
+3. yes, the text mentions specific dates related to the event, specifically noting that the ice sweep took place from march 25 - march 27. this is very close to the date of 3/22/2017 but not exactly on it. the article itself was published on april 7, 2017.
+
+4. yes, the text confirms that the raid was conducted by u.s. immigration and customs enforcement (ice). it mentions ice's direct involvement, that ice announced the arrests, and discusses ice's authority and targeted enforcement operations throughout the text.",53015,53,15
+Cowlitz,WA,4/18/2017,04/16/17,05/02/2017,ICE arrests 84 people during 3-day sweep of Pacific ...,https://www.kgw.com/article/news/local/ice-arrests-84-people-during-3-day-sweep-of-pacific-northwest/283-426890395,"Apr 7, 2017","1. yes, the text explicitly mentions ""wa,"" which stands for washington, as part of the locations where the ice arrests occurred. it states clearly that undocumented immigrants in oregon and washington were arrested during a three-day sweep.
+
+2. yes, the text is related to immigration raids/arrests. it details a specific operation conducted by u.s. immigration and customs enforcement (ice) where 84 undocumented immigrants were arrested over a three-day period in the pacific northwest (oregon and washington).
+
+3. yes, the text mentions specific dates related to the event, specifically noting that the ice sweep took place from march 25 - march 27. this is very close to the date of 3/22/2017 but not exactly on it. the article itself was published on april 7, 2017.
+
+4. yes, the text confirms that the raid was conducted by u.s. immigration and customs enforcement (ice). it mentions ice's direct involvement, that ice announced the arrests, and discusses ice's authority and targeted enforcement operations throughout the text.",53015,53,15
+Travis,TX,1/20/2017,01/18/17,02/03/2017,Sanctuary Cities and the Ways We Fight for Human Rights,https://www.austinchronicle.com/news/2017-02-10/sanctuary-cities-and-the-ways-we-fight-for-human-rights/,"Feb 10, 2017","1. yes, the text does mention travis county, tx. it discusses the policies of the travis county jail regarding the release of inmates to federal immigration authorities and mentions the reaction of texas governor greg abbott to these policies.
+
+2. yes, the text is related to immigration raids and arrests. it discusses policies and community reactions concerning cooperation with u.s. immigration and customs enforcement (ice), particularly in the context of detainer requests and the actions of local law enforcement.
+
+3. yes, the text mentions the date around 1/20/2017 explicitly when discussing sheriff sally hernandez's announcement on her policy concerning ice on january 20, 2017. it places this information within the broader context of immigration policy debates at the time.
+
+4. yes, the text confirms that raids and arrest activities discussed involve immigration and customs enforcement (ice). it talks about ice detainer requests, and how local law enforcement, particularly under the previous travis county sheriff, cooperated with ice, leading to a high rate of deportations. it also details an executive order by president trump requiring local law enforcement to fully cooperate with dhs and ice, indicating ice involvement in enforcement actions mentioned in the text.",48453,48,453
+Travis,TX,1/23/2017,01/21/17,02/06/2017,Reports of immigration raids spread across Texas; details ...,https://www.texastribune.org/2017/02/10/austin-officials-respond-reports-ice-actions-community/,"Feb 10, 2017","1. yes, the text mentions texas (tx) explicitly multiple times. for example, it talks about immigrant communities in texas and immigration actions involving u.s. immigration and customs enforcement in cities like austin.
+
+2. yes, the text is primarily focused on immigration raids and arrests as it describes reports of immigration enforcement actions that have sparked discussions and protests across texas and other states. 
+
+3. yes, the text mentions a date, explicitly stating ""february 10, 2017,"" which is close to the date you referred to, 1/20/2017, occurring just three weeks later.
+
+4. yes, the text confirms that the immigration raids were conducted by immigration and customs enforcement (ice). it mentions ice in several contexts related to the reported actions, including enforcement strategies and statements from an ice spokeswoman.",48453,48,453
+Travis,TX,1/30/2017,01/28/17,02/13/2017,Reports of immigration raids spread across Texas; details ...,https://www.texastribune.org/2017/02/10/austin-officials-respond-reports-ice-actions-community/,"Feb 10, 2017","1. yes, the text mentions texas (tx) explicitly multiple times. for example, it talks about immigrant communities in texas and immigration actions involving u.s. immigration and customs enforcement in cities like austin.
+
+2. yes, the text is primarily focused on immigration raids and arrests as it describes reports of immigration enforcement actions that have sparked discussions and protests across texas and other states. 
+
+3. yes, the text mentions a date, explicitly stating ""february 10, 2017,"" which is close to the date you referred to, 1/20/2017, occurring just three weeks later.
+
+4. yes, the text confirms that the immigration raids were conducted by immigration and customs enforcement (ice). it mentions ice in several contexts related to the reported actions, including enforcement strategies and statements from an ice spokeswoman.",48453,48,453
+Travis,TX,1/30/2017,01/28/17,02/13/2017,"In apparent case of mistaken identity, father caught in ICE ...",https://www.texastribune.org/2017/02/14/apparent-case-mistaken-identity-father-caught-ice-sting/,"Feb 14, 2017","1. yes, the text mentions travis county, tx, as the place where irma perez submitted payment for her brother’s tickets in manor, a town within travis county just northeast of austin.
+
+2. yes, the text is related to immigration raids/arrests. it describes an incident where miguel angel torres was picked up by immigration and customs enforcement (ice) agents in what his family claims was a case of mistaken identity during his routine action of dropping off his daughters at school.
+
+3. yes, the text does mention several dates close to and around 1/30/2017. for instance, it mentions that torres was detained on february 12, 2017, and that the article itself was published on february 14, 2017. these dates are indeed around the timeframe of 1/30/2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it specifically mentions that miguel angel torres was detained by ice agents as part of targeted operations which homeland security secretary john kelly referred to in a statement.",48453,48,453
+Travis,TX,1/31/2017,01/29/17,02/14/2017,Reports of immigration raids spread across Texas; details ...,https://www.texastribune.org/2017/02/10/austin-officials-respond-reports-ice-actions-community/,"Feb 10, 2017","1. yes, the text mentions texas (tx) explicitly multiple times. for example, it talks about immigrant communities in texas and immigration actions involving u.s. immigration and customs enforcement in cities like austin.
+
+2. yes, the text is primarily focused on immigration raids and arrests as it describes reports of immigration enforcement actions that have sparked discussions and protests across texas and other states. 
+
+3. yes, the text mentions a date, explicitly stating ""february 10, 2017,"" which is close to the date you referred to, 1/20/2017, occurring just three weeks later.
+
+4. yes, the text confirms that the immigration raids were conducted by immigration and customs enforcement (ice). it mentions ice in several contexts related to the reported actions, including enforcement strategies and statements from an ice spokeswoman.",48453,48,453
+Travis,TX,1/31/2017,01/29/17,02/14/2017,"In apparent case of mistaken identity, father caught in ICE ...",https://www.texastribune.org/2017/02/14/apparent-case-mistaken-identity-father-caught-ice-sting/,"Feb 14, 2017","1. yes, the text mentions travis county, tx, as the place where irma perez submitted payment for her brother’s tickets in manor, a town within travis county just northeast of austin.
+
+2. yes, the text is related to immigration raids/arrests. it describes an incident where miguel angel torres was picked up by immigration and customs enforcement (ice) agents in what his family claims was a case of mistaken identity during his routine action of dropping off his daughters at school.
+
+3. yes, the text does mention several dates close to and around 1/30/2017. for instance, it mentions that torres was detained on february 12, 2017, and that the article itself was published on february 14, 2017. these dates are indeed around the timeframe of 1/30/2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it specifically mentions that miguel angel torres was detained by ice agents as part of targeted operations which homeland security secretary john kelly referred to in a statement.",48453,48,453
+Travis,TX,1/31/2017,01/29/17,02/14/2017,Source: ICE targeting 'sanctuary cities' with raids,https://www.cnn.com/2017/03/23/politics/sanctuary-city-ice-raids/index.html,"Mar 23, 2017","1. yes, the text explicitly mentions travis county, texas, referring to a significant shift in the county’s immigration enforcement policy and a series of immigration raids that occurred in austin after the local sheriff enacted a new policy limiting cooperation with ice.
+
+2. yes, the text is related to immigration raids/arrests. it discusses ice targeting sanctuary cities with increased enforcement operations and provides specifics on raids conducted in travis county, texas, as well as broader references to similar actions in various u.s. cities.
+
+3. yes, the text does mention a specific date. the text references a federal judge in texas speaking about an ice raid during an immigration hearing on a monday in mid-february. while it does not directly mention the date 4/20/2017, it includes timeline details close to this date, considering the reporting date is march 25, 2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice). it discusses ice's efforts to enforce immigration laws in sanctuary cities and specifically mentions several instances of ice’s operational activities, including the motivations and repercussions of such enforcement actions in sanctuary jurisdictions.",48453,48,453
+Travis,TX,1/31/2017,01/29/17,02/14/2017,ICE Agents Struggled to Prove Trump's Lies About ...,https://theintercept.com/2017/10/04/ice-raids-trump-immigration-deportation/,N/A,"1. yes, the text explicitly mentions travis county, which is in texas (tx). it discusses how travis county, under sheriff sally hernandez, targeted to become texas's first ""sanctuary city"" and faced political and financial repercussions from the state government and ice.
+
+2. yes, the text is extensively related to immigration raids and arrests. it describes in detail a series of nationwide ice raids that occurred in early 2017, the intent behind them, the selection of targets, the public and official responses to these raids, and the subsequent actions and policies of ice.
+
+3. yes, the text mentions specific dates, and some events described are around the date of 9/25/2017. however, the primary focus around this period appears to be related to events and actions occurring in early 2017, particularly in february. the mention of dates like february 6, february 9, and others pertains to the timeline of ice's operations and public responses.
+
+4. yes, the text confirms that the raids were conducted by the u.s. immigration and customs enforcement (ice). it details ice's involvement in the planning, execution, and media strategy related to the immigration raids, including internal communications of ice officers.",48453,48,453
+Travis,TX,1/31/2017,01/29/17,02/14/2017,Reports of immigration raids spread across Texas; details ...,https://www.texastribune.org/2017/02/10/austin-officials-respond-reports-ice-actions-community/,"Feb 10, 2017","1. yes, the text mentions texas (tx) explicitly multiple times. for example, it talks about immigrant communities in texas and immigration actions involving u.s. immigration and customs enforcement in cities like austin.
+
+2. yes, the text is primarily focused on immigration raids and arrests as it describes reports of immigration enforcement actions that have sparked discussions and protests across texas and other states. 
+
+3. yes, the text mentions a date, explicitly stating ""february 10, 2017,"" which is close to the date you referred to, 1/20/2017, occurring just three weeks later.
+
+4. yes, the text confirms that the immigration raids were conducted by immigration and customs enforcement (ice). it mentions ice in several contexts related to the reported actions, including enforcement strategies and statements from an ice spokeswoman.",48453,48,453
+Travis,TX,1/31/2017,01/29/17,02/14/2017,"ICE targeted Austin in operation, federal judge says",https://www.kvue.com/article/news/investigations/defenders/ice-targeted-austin-in-operation-federal-judge-says/269-424007131,"Mar 20, 2017","1. yes, the text mentions travis county, tx. it discusses how immigration and customs enforcement (ice) targeted travis county in an operation, specifically in retaliation over a sheriff’s policy on detainers.
+
+2. yes, the text is related to immigration raids/arrests. it details how ice targeted austin and travis county, leading to the arrest of 51 people suspected of being in the united states illegally. the operation was mentioned as a reaction to the local sheriff's policy on detention holds, where ice agents disclosed their plans for a major operation in response.
+
+3. yes, the text mentions the date and it is around the date of 4/20/2017. it states that the publication and update date of the article is march 20, 2017, which is close to april 20, 2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it explicitly states that ice met with judges to discuss a major operation they were planning in travis county as a result of the sheriff's new policy on detainers, and ice conducted arrests in the austin area.",48453,48,453
+Travis,TX,1/31/2017,01/29/17,02/14/2017,Recent ICE sweep in Austin area nets more criminals than ...,https://www.statesman.com/story/news/2017/04/14/recent-ice-sweep-in-austin-area-nets-more-criminals-than-noncriminals/10106020007/,"Apr 14, 2017","1. yes, the text mentions travis county as being targeted due to a new policy by sheriff sally hernandez which limits cooperation with ice.
+
+2. yes, the text is related to immigration raids/arrests as it discusses recent ice (u.s. immigration and customs enforcement) operations in the austin area targeting individuals, some with criminal histories and others without.
+
+3. yes, the text mentions specific dates which are around march 20-31 for the most recent sweep and also refers to a february sweep, placing the timeline around early 2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses the actions taken by ice, their objectives, and the agency's response to terminology such as ""raids"" and ""sweeps.""",48453,48,453
+Travis,TX,2/9/2017,02/07/17,02/23/2017,Recent raids drive immigrant families to passport scramble,https://www.texastribune.org/2017/03/01/recent-raids-drive-immigrant-families-to-scramble-for-passports/,"Mar 1, 2017","1. yes, the text mentions travis county, which is in texas. specifically, it references the travis county passport office, where carlos bernal and his family went early in the morning to get passports for their u.s. citizen children due to fears of deportation.
+
+2. yes, the text is directly related to immigration raids and arrests. it discusses recent immigration and customs enforcement (ice) activities that have led undocumented immigrants to rush to get u.s. passports for their american-born children and other vital documents, due to fears of being deported.
+
+3. yes, the text mentions the date ""march 1, 2017,"" which is close to february 9, 2017 (the date you referenced). the close proximity of these dates suggests that the discussions and actions mentioned in the article are around the same time period.
+
+4. yes, the text explicitly confirms that the raids were conducted by immigration and customs enforcement (ice). it discusses ice apprehending dozens of undocumented immigrants across the nation and how this action has instilled fear into the immigrant community, particularly because the raids included detaining non-criminal immigrants, diverging from previously observed policies.",48453,48,453
+Travis,TX,2/9/2017,02/07/17,02/23/2017,The teens caught in the middle of Austin's Sanctuary City ...,https://www.pbs.org/newshour/nation/teens-caught-middle-austins-sanctuary-city-debate,"Feb 24, 2017","1. yes, the text mentions tx specifically in the context of senate bill 4 (sb4) and discussing the general political views of people in texas concerning sanctuary cities and immigration policies.
+
+2. yes, the text is directly related to immigration raids and arrests. it discusses how teenagers caught in the immigration debate are affected by the fear of ice raids, and it mentions a specific incident where federal immigration and customs enforcement agents arrested more than 680 people across various cities. 
+
+3. yes, the text does mention a specific date, february 24, 2017, which is around the week after the mentioned raids took place. so it is in close proximity to the date you inquired about (2/9/2017), but not exactly on it. the events and sentiments expressed are relevant to the timeframe shortly after your specified date.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it reports on the concern among teens in austin about the increased ice raids facilitated by the federal immigration and customs enforcement. additionally, it mentions how ice issued a statement on february 13 regarding the nature of these raids.",48453,48,453
+Travis,TX,2/9/2017,02/07/17,02/23/2017,Sanctuary Cities and the Ways We Fight for Human Rights,https://www.austinchronicle.com/news/2017-02-10/sanctuary-cities-and-the-ways-we-fight-for-human-rights/,"Feb 10, 2017","1. yes, the text does mention travis county, tx. it discusses the policies of the travis county jail regarding the release of inmates to federal immigration authorities and mentions the reaction of texas governor greg abbott to these policies.
+
+2. yes, the text is related to immigration raids and arrests. it discusses policies and community reactions concerning cooperation with u.s. immigration and customs enforcement (ice), particularly in the context of detainer requests and the actions of local law enforcement.
+
+3. yes, the text mentions the date around 1/20/2017 explicitly when discussing sheriff sally hernandez's announcement on her policy concerning ice on january 20, 2017. it places this information within the broader context of immigration policy debates at the time.
+
+4. yes, the text confirms that raids and arrest activities discussed involve immigration and customs enforcement (ice). it talks about ice detainer requests, and how local law enforcement, particularly under the previous travis county sheriff, cooperated with ice, leading to a high rate of deportations. it also details an executive order by president trump requiring local law enforcement to fully cooperate with dhs and ice, indicating ice involvement in enforcement actions mentioned in the text.",48453,48,453
+Travis,TX,2/9/2017,02/07/17,02/23/2017,Source: ICE targeting 'sanctuary cities' with raids,https://www.cnn.com/2017/03/23/politics/sanctuary-city-ice-raids/index.html,"Mar 23, 2017","1. yes, the text explicitly mentions travis county, texas, referring to a significant shift in the county’s immigration enforcement policy and a series of immigration raids that occurred in austin after the local sheriff enacted a new policy limiting cooperation with ice.
+
+2. yes, the text is related to immigration raids/arrests. it discusses ice targeting sanctuary cities with increased enforcement operations and provides specifics on raids conducted in travis county, texas, as well as broader references to similar actions in various u.s. cities.
+
+3. yes, the text does mention a specific date. the text references a federal judge in texas speaking about an ice raid during an immigration hearing on a monday in mid-february. while it does not directly mention the date 4/20/2017, it includes timeline details close to this date, considering the reporting date is march 25, 2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice). it discusses ice's efforts to enforce immigration laws in sanctuary cities and specifically mentions several instances of ice’s operational activities, including the motivations and repercussions of such enforcement actions in sanctuary jurisdictions.",48453,48,453
+Travis,TX,2/9/2017,02/07/17,02/23/2017,ICE Agents Struggled to Prove Trump's Lies About ...,https://theintercept.com/2017/10/04/ice-raids-trump-immigration-deportation/,N/A,"1. yes, the text explicitly mentions travis county, which is in texas (tx). it discusses how travis county, under sheriff sally hernandez, targeted to become texas's first ""sanctuary city"" and faced political and financial repercussions from the state government and ice.
+
+2. yes, the text is extensively related to immigration raids and arrests. it describes in detail a series of nationwide ice raids that occurred in early 2017, the intent behind them, the selection of targets, the public and official responses to these raids, and the subsequent actions and policies of ice.
+
+3. yes, the text mentions specific dates, and some events described are around the date of 9/25/2017. however, the primary focus around this period appears to be related to events and actions occurring in early 2017, particularly in february. the mention of dates like february 6, february 9, and others pertains to the timeline of ice's operations and public responses.
+
+4. yes, the text confirms that the raids were conducted by the u.s. immigration and customs enforcement (ice). it details ice's involvement in the planning, execution, and media strategy related to the immigration raids, including internal communications of ice officers.",48453,48,453
+Travis,TX,2/9/2017,02/07/17,02/23/2017,"ICE targeted Austin in operation, federal judge says",https://www.kvue.com/article/news/investigations/defenders/ice-targeted-austin-in-operation-federal-judge-says/269-424007131,"Mar 20, 2017","1. yes, the text mentions travis county, tx. it discusses how immigration and customs enforcement (ice) targeted travis county in an operation, specifically in retaliation over a sheriff’s policy on detainers.
+
+2. yes, the text is related to immigration raids/arrests. it details how ice targeted austin and travis county, leading to the arrest of 51 people suspected of being in the united states illegally. the operation was mentioned as a reaction to the local sheriff's policy on detention holds, where ice agents disclosed their plans for a major operation in response.
+
+3. yes, the text mentions the date and it is around the date of 4/20/2017. it states that the publication and update date of the article is march 20, 2017, which is close to april 20, 2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it explicitly states that ice met with judges to discuss a major operation they were planning in travis county as a result of the sheriff's new policy on detainers, and ice conducted arrests in the austin area.",48453,48,453
+Travis,TX,2/9/2017,02/07/17,02/23/2017,Recent ICE sweep in Austin area nets more criminals than ...,https://www.statesman.com/story/news/2017/04/14/recent-ice-sweep-in-austin-area-nets-more-criminals-than-noncriminals/10106020007/,"Apr 14, 2017","1. yes, the text mentions travis county as being targeted due to a new policy by sheriff sally hernandez which limits cooperation with ice.
+
+2. yes, the text is related to immigration raids/arrests as it discusses recent ice (u.s. immigration and customs enforcement) operations in the austin area targeting individuals, some with criminal histories and others without.
+
+3. yes, the text mentions specific dates which are around march 20-31 for the most recent sweep and also refers to a february sweep, placing the timeline around early 2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses the actions taken by ice, their objectives, and the agency's response to terminology such as ""raids"" and ""sweeps.""",48453,48,453
+Travis,TX,2/10/2017,02/08/17,02/24/2017,Reports of immigration raids spread across Texas; details ...,https://www.texastribune.org/2017/02/10/austin-officials-respond-reports-ice-actions-community/,"Feb 10, 2017","1. yes, the text mentions texas (tx) explicitly multiple times. for example, it talks about immigrant communities in texas and immigration actions involving u.s. immigration and customs enforcement in cities like austin.
+
+2. yes, the text is primarily focused on immigration raids and arrests as it describes reports of immigration enforcement actions that have sparked discussions and protests across texas and other states. 
+
+3. yes, the text mentions a date, explicitly stating ""february 10, 2017,"" which is close to the date you referred to, 1/20/2017, occurring just three weeks later.
+
+4. yes, the text confirms that the immigration raids were conducted by immigration and customs enforcement (ice). it mentions ice in several contexts related to the reported actions, including enforcement strategies and statements from an ice spokeswoman.",48453,48,453
+Travis,TX,2/10/2017,02/08/17,02/24/2017,Recent raids drive immigrant families to passport scramble,https://www.texastribune.org/2017/03/01/recent-raids-drive-immigrant-families-to-scramble-for-passports/,"Mar 1, 2017","1. yes, the text mentions travis county, which is in texas. specifically, it references the travis county passport office, where carlos bernal and his family went early in the morning to get passports for their u.s. citizen children due to fears of deportation.
+
+2. yes, the text is directly related to immigration raids and arrests. it discusses recent immigration and customs enforcement (ice) activities that have led undocumented immigrants to rush to get u.s. passports for their american-born children and other vital documents, due to fears of being deported.
+
+3. yes, the text mentions the date ""march 1, 2017,"" which is close to february 9, 2017 (the date you referenced). the close proximity of these dates suggests that the discussions and actions mentioned in the article are around the same time period.
+
+4. yes, the text explicitly confirms that the raids were conducted by immigration and customs enforcement (ice). it discusses ice apprehending dozens of undocumented immigrants across the nation and how this action has instilled fear into the immigrant community, particularly because the raids included detaining non-criminal immigrants, diverging from previously observed policies.",48453,48,453
+Travis,TX,2/10/2017,02/08/17,02/24/2017,The teens caught in the middle of Austin's Sanctuary City ...,https://www.pbs.org/newshour/nation/teens-caught-middle-austins-sanctuary-city-debate,"Feb 24, 2017","1. yes, the text mentions tx specifically in the context of senate bill 4 (sb4) and discussing the general political views of people in texas concerning sanctuary cities and immigration policies.
+
+2. yes, the text is directly related to immigration raids and arrests. it discusses how teenagers caught in the immigration debate are affected by the fear of ice raids, and it mentions a specific incident where federal immigration and customs enforcement agents arrested more than 680 people across various cities. 
+
+3. yes, the text does mention a specific date, february 24, 2017, which is around the week after the mentioned raids took place. so it is in close proximity to the date you inquired about (2/9/2017), but not exactly on it. the events and sentiments expressed are relevant to the timeframe shortly after your specified date.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it reports on the concern among teens in austin about the increased ice raids facilitated by the federal immigration and customs enforcement. additionally, it mentions how ice issued a statement on february 13 regarding the nature of these raids.",48453,48,453
+Travis,TX,2/10/2017,02/08/17,02/24/2017,Sanctuary Cities and the Ways We Fight for Human Rights,https://www.austinchronicle.com/news/2017-02-10/sanctuary-cities-and-the-ways-we-fight-for-human-rights/,"Feb 10, 2017","1. yes, the text does mention travis county, tx. it discusses the policies of the travis county jail regarding the release of inmates to federal immigration authorities and mentions the reaction of texas governor greg abbott to these policies.
+
+2. yes, the text is related to immigration raids and arrests. it discusses policies and community reactions concerning cooperation with u.s. immigration and customs enforcement (ice), particularly in the context of detainer requests and the actions of local law enforcement.
+
+3. yes, the text mentions the date around 1/20/2017 explicitly when discussing sheriff sally hernandez's announcement on her policy concerning ice on january 20, 2017. it places this information within the broader context of immigration policy debates at the time.
+
+4. yes, the text confirms that raids and arrest activities discussed involve immigration and customs enforcement (ice). it talks about ice detainer requests, and how local law enforcement, particularly under the previous travis county sheriff, cooperated with ice, leading to a high rate of deportations. it also details an executive order by president trump requiring local law enforcement to fully cooperate with dhs and ice, indicating ice involvement in enforcement actions mentioned in the text.",48453,48,453
+Travis,TX,2/10/2017,02/08/17,02/24/2017,Source: ICE targeting 'sanctuary cities' with raids,https://www.cnn.com/2017/03/23/politics/sanctuary-city-ice-raids/index.html,"Mar 23, 2017","1. yes, the text explicitly mentions travis county, texas, referring to a significant shift in the county’s immigration enforcement policy and a series of immigration raids that occurred in austin after the local sheriff enacted a new policy limiting cooperation with ice.
+
+2. yes, the text is related to immigration raids/arrests. it discusses ice targeting sanctuary cities with increased enforcement operations and provides specifics on raids conducted in travis county, texas, as well as broader references to similar actions in various u.s. cities.
+
+3. yes, the text does mention a specific date. the text references a federal judge in texas speaking about an ice raid during an immigration hearing on a monday in mid-february. while it does not directly mention the date 4/20/2017, it includes timeline details close to this date, considering the reporting date is march 25, 2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice). it discusses ice's efforts to enforce immigration laws in sanctuary cities and specifically mentions several instances of ice’s operational activities, including the motivations and repercussions of such enforcement actions in sanctuary jurisdictions.",48453,48,453
+Travis,TX,2/10/2017,02/08/17,02/24/2017,ICE Agents Struggled to Prove Trump's Lies About ...,https://theintercept.com/2017/10/04/ice-raids-trump-immigration-deportation/,N/A,"1. yes, the text explicitly mentions travis county, which is in texas (tx). it discusses how travis county, under sheriff sally hernandez, targeted to become texas's first ""sanctuary city"" and faced political and financial repercussions from the state government and ice.
+
+2. yes, the text is extensively related to immigration raids and arrests. it describes in detail a series of nationwide ice raids that occurred in early 2017, the intent behind them, the selection of targets, the public and official responses to these raids, and the subsequent actions and policies of ice.
+
+3. yes, the text mentions specific dates, and some events described are around the date of 9/25/2017. however, the primary focus around this period appears to be related to events and actions occurring in early 2017, particularly in february. the mention of dates like february 6, february 9, and others pertains to the timeline of ice's operations and public responses.
+
+4. yes, the text confirms that the raids were conducted by the u.s. immigration and customs enforcement (ice). it details ice's involvement in the planning, execution, and media strategy related to the immigration raids, including internal communications of ice officers.",48453,48,453
+Travis,TX,2/10/2017,02/08/17,02/24/2017,"ICE targeted Austin in operation, federal judge says",https://www.kvue.com/article/news/investigations/defenders/ice-targeted-austin-in-operation-federal-judge-says/269-424007131,"Mar 20, 2017","1. yes, the text mentions travis county, tx. it discusses how immigration and customs enforcement (ice) targeted travis county in an operation, specifically in retaliation over a sheriff’s policy on detainers.
+
+2. yes, the text is related to immigration raids/arrests. it details how ice targeted austin and travis county, leading to the arrest of 51 people suspected of being in the united states illegally. the operation was mentioned as a reaction to the local sheriff's policy on detention holds, where ice agents disclosed their plans for a major operation in response.
+
+3. yes, the text mentions the date and it is around the date of 4/20/2017. it states that the publication and update date of the article is march 20, 2017, which is close to april 20, 2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it explicitly states that ice met with judges to discuss a major operation they were planning in travis county as a result of the sheriff's new policy on detainers, and ice conducted arrests in the austin area.",48453,48,453
+Travis,TX,2/10/2017,02/08/17,02/24/2017,Recent ICE sweep in Austin area nets more criminals than ...,https://www.statesman.com/story/news/2017/04/14/recent-ice-sweep-in-austin-area-nets-more-criminals-than-noncriminals/10106020007/,"Apr 14, 2017","1. yes, the text mentions travis county as being targeted due to a new policy by sheriff sally hernandez which limits cooperation with ice.
+
+2. yes, the text is related to immigration raids/arrests as it discusses recent ice (u.s. immigration and customs enforcement) operations in the austin area targeting individuals, some with criminal histories and others without.
+
+3. yes, the text mentions specific dates which are around march 20-31 for the most recent sweep and also refers to a february sweep, placing the timeline around early 2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses the actions taken by ice, their objectives, and the agency's response to terminology such as ""raids"" and ""sweeps.""",48453,48,453
+Travis,TX,2/11/2017,02/09/17,02/25/2017,Reports of immigration raids spread across Texas; details ...,https://www.texastribune.org/2017/02/10/austin-officials-respond-reports-ice-actions-community/,"Feb 10, 2017","1. yes, the text mentions texas (tx) explicitly multiple times. for example, it talks about immigrant communities in texas and immigration actions involving u.s. immigration and customs enforcement in cities like austin.
+
+2. yes, the text is primarily focused on immigration raids and arrests as it describes reports of immigration enforcement actions that have sparked discussions and protests across texas and other states. 
+
+3. yes, the text mentions a date, explicitly stating ""february 10, 2017,"" which is close to the date you referred to, 1/20/2017, occurring just three weeks later.
+
+4. yes, the text confirms that the immigration raids were conducted by immigration and customs enforcement (ice). it mentions ice in several contexts related to the reported actions, including enforcement strategies and statements from an ice spokeswoman.",48453,48,453
+Travis,TX,2/11/2017,02/09/17,02/25/2017,Recent raids drive immigrant families to passport scramble,https://www.texastribune.org/2017/03/01/recent-raids-drive-immigrant-families-to-scramble-for-passports/,"Mar 1, 2017","1. yes, the text mentions travis county, which is in texas. specifically, it references the travis county passport office, where carlos bernal and his family went early in the morning to get passports for their u.s. citizen children due to fears of deportation.
+
+2. yes, the text is directly related to immigration raids and arrests. it discusses recent immigration and customs enforcement (ice) activities that have led undocumented immigrants to rush to get u.s. passports for their american-born children and other vital documents, due to fears of being deported.
+
+3. yes, the text mentions the date ""march 1, 2017,"" which is close to february 9, 2017 (the date you referenced). the close proximity of these dates suggests that the discussions and actions mentioned in the article are around the same time period.
+
+4. yes, the text explicitly confirms that the raids were conducted by immigration and customs enforcement (ice). it discusses ice apprehending dozens of undocumented immigrants across the nation and how this action has instilled fear into the immigrant community, particularly because the raids included detaining non-criminal immigrants, diverging from previously observed policies.",48453,48,453
+Travis,TX,2/11/2017,02/09/17,02/25/2017,The teens caught in the middle of Austin's Sanctuary City ...,https://www.pbs.org/newshour/nation/teens-caught-middle-austins-sanctuary-city-debate,"Feb 24, 2017","1. yes, the text mentions tx specifically in the context of senate bill 4 (sb4) and discussing the general political views of people in texas concerning sanctuary cities and immigration policies.
+
+2. yes, the text is directly related to immigration raids and arrests. it discusses how teenagers caught in the immigration debate are affected by the fear of ice raids, and it mentions a specific incident where federal immigration and customs enforcement agents arrested more than 680 people across various cities. 
+
+3. yes, the text does mention a specific date, february 24, 2017, which is around the week after the mentioned raids took place. so it is in close proximity to the date you inquired about (2/9/2017), but not exactly on it. the events and sentiments expressed are relevant to the timeframe shortly after your specified date.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it reports on the concern among teens in austin about the increased ice raids facilitated by the federal immigration and customs enforcement. additionally, it mentions how ice issued a statement on february 13 regarding the nature of these raids.",48453,48,453
+Travis,TX,2/11/2017,02/09/17,02/25/2017,Source: ICE targeting 'sanctuary cities' with raids,https://www.cnn.com/2017/03/23/politics/sanctuary-city-ice-raids/index.html,"Mar 23, 2017","1. yes, the text explicitly mentions travis county, texas, referring to a significant shift in the county’s immigration enforcement policy and a series of immigration raids that occurred in austin after the local sheriff enacted a new policy limiting cooperation with ice.
+
+2. yes, the text is related to immigration raids/arrests. it discusses ice targeting sanctuary cities with increased enforcement operations and provides specifics on raids conducted in travis county, texas, as well as broader references to similar actions in various u.s. cities.
+
+3. yes, the text does mention a specific date. the text references a federal judge in texas speaking about an ice raid during an immigration hearing on a monday in mid-february. while it does not directly mention the date 4/20/2017, it includes timeline details close to this date, considering the reporting date is march 25, 2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice). it discusses ice's efforts to enforce immigration laws in sanctuary cities and specifically mentions several instances of ice’s operational activities, including the motivations and repercussions of such enforcement actions in sanctuary jurisdictions.",48453,48,453
+Travis,TX,2/11/2017,02/09/17,02/25/2017,ICE Agents Struggled to Prove Trump's Lies About ...,https://theintercept.com/2017/10/04/ice-raids-trump-immigration-deportation/,N/A,"1. yes, the text explicitly mentions travis county, which is in texas (tx). it discusses how travis county, under sheriff sally hernandez, targeted to become texas's first ""sanctuary city"" and faced political and financial repercussions from the state government and ice.
+
+2. yes, the text is extensively related to immigration raids and arrests. it describes in detail a series of nationwide ice raids that occurred in early 2017, the intent behind them, the selection of targets, the public and official responses to these raids, and the subsequent actions and policies of ice.
+
+3. yes, the text mentions specific dates, and some events described are around the date of 9/25/2017. however, the primary focus around this period appears to be related to events and actions occurring in early 2017, particularly in february. the mention of dates like february 6, february 9, and others pertains to the timeline of ice's operations and public responses.
+
+4. yes, the text confirms that the raids were conducted by the u.s. immigration and customs enforcement (ice). it details ice's involvement in the planning, execution, and media strategy related to the immigration raids, including internal communications of ice officers.",48453,48,453
+Travis,TX,2/11/2017,02/09/17,02/25/2017,"ICE targeted Austin in operation, federal judge says",https://www.kvue.com/article/news/investigations/defenders/ice-targeted-austin-in-operation-federal-judge-says/269-424007131,"Mar 20, 2017","1. yes, the text mentions travis county, tx. it discusses how immigration and customs enforcement (ice) targeted travis county in an operation, specifically in retaliation over a sheriff’s policy on detainers.
+
+2. yes, the text is related to immigration raids/arrests. it details how ice targeted austin and travis county, leading to the arrest of 51 people suspected of being in the united states illegally. the operation was mentioned as a reaction to the local sheriff's policy on detention holds, where ice agents disclosed their plans for a major operation in response.
+
+3. yes, the text mentions the date and it is around the date of 4/20/2017. it states that the publication and update date of the article is march 20, 2017, which is close to april 20, 2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it explicitly states that ice met with judges to discuss a major operation they were planning in travis county as a result of the sheriff's new policy on detainers, and ice conducted arrests in the austin area.",48453,48,453
+Travis,TX,2/11/2017,02/09/17,02/25/2017,Recent ICE sweep in Austin area nets more criminals than ...,https://www.statesman.com/story/news/2017/04/14/recent-ice-sweep-in-austin-area-nets-more-criminals-than-noncriminals/10106020007/,"Apr 14, 2017","1. yes, the text mentions travis county as being targeted due to a new policy by sheriff sally hernandez which limits cooperation with ice.
+
+2. yes, the text is related to immigration raids/arrests as it discusses recent ice (u.s. immigration and customs enforcement) operations in the austin area targeting individuals, some with criminal histories and others without.
+
+3. yes, the text mentions specific dates which are around march 20-31 for the most recent sweep and also refers to a february sweep, placing the timeline around early 2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses the actions taken by ice, their objectives, and the agency's response to terminology such as ""raids"" and ""sweeps.""",48453,48,453
+Travis,TX,4/20/2017,04/18/17,05/04/2017,Recent ICE sweep in Austin area nets more criminals than ...,https://www.statesman.com/story/news/2017/04/14/recent-ice-sweep-in-austin-area-nets-more-criminals-than-noncriminals/10106020007/,"Apr 14, 2017","1. yes, the text mentions travis county as being targeted due to a new policy by sheriff sally hernandez which limits cooperation with ice.
+
+2. yes, the text is related to immigration raids/arrests as it discusses recent ice (u.s. immigration and customs enforcement) operations in the austin area targeting individuals, some with criminal histories and others without.
+
+3. yes, the text mentions specific dates which are around march 20-31 for the most recent sweep and also refers to a february sweep, placing the timeline around early 2017.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses the actions taken by ice, their objectives, and the agency's response to terminology such as ""raids"" and ""sweeps.""",48453,48,453
+Travis,TX,4/20/2017,04/18/17,05/04/2017,Source: ICE targeting 'sanctuary cities' with raids,https://www.cnn.com/2017/03/23/politics/sanctuary-city-ice-raids/index.html,"Mar 23, 2017","1. yes, the text explicitly mentions travis county, texas, referring to a significant shift in the county’s immigration enforcement policy and a series of immigration raids that occurred in austin after the local sheriff enacted a new policy limiting cooperation with ice.
+
+2. yes, the text is related to immigration raids/arrests. it discusses ice targeting sanctuary cities with increased enforcement operations and provides specifics on raids conducted in travis county, texas, as well as broader references to similar actions in various u.s. cities.
+
+3. yes, the text does mention a specific date. the text references a federal judge in texas speaking about an ice raid during an immigration hearing on a monday in mid-february. while it does not directly mention the date 4/20/2017, it includes timeline details close to this date, considering the reporting date is march 25, 2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice). it discusses ice's efforts to enforce immigration laws in sanctuary cities and specifically mentions several instances of ice’s operational activities, including the motivations and repercussions of such enforcement actions in sanctuary jurisdictions.",48453,48,453
+Wharton,TX,8/14/2017,08/12/17,08/28/2017,Refugio restaurant owner victim or villain? | Local News,https://www.victoriaadvocate.com/news/local/refugio-restaurant-owner-victim-or-villain/article_9d89d02d-0fec-52b0-b711-88bb98ea5eff.html,"Apr 22, 2017","1. yes, wharton, tx is mentioned in the text. it appears in the list of counties under the local news section, specifically named among other counties like victoria, calhoun, dewitt, and others.
+
+2. yes, the text is related to immigration raids/arrests. it describes the event where federal immigration investigators raided the properties of alfredo plascencia, a refugio business owner. the raid involved detaining individuals suspected of residing in the country illegally and was conducted as part of a multiyear, international investigation.
+
+3. yes, the text mentions specific dates, though none are around 8/14/2017. the article itself was published on april 22, 2017, and updated on june 10, 2019. however, it discusses an event (the raid) that occurred on the morning of february 21 (year not specified in the provided text), which is not close to the date you asked about.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it explicitly states that federal immigration investigators from ice’s homeland security investigations division, along with u.s. border patrol and the refugio police department, executed search warrants and detained people suspected of living in the u.s. illegally. moreover, it mentions that the investigators were wearing jackets emblazoned with ""ice"".",48481,48,481
+Oklahoma,OK,4/1/2015,03/30/15,04/15/2015,Immigration raid hits site in Oklahoma City,http://www.newson6.com/story/5e368d502f69d76f620a4d60/oklahoma-city-bombing-victims,N/A,"1. yes, the text explicitly mentions ""oklahoma city"" and ""tulsa"" which are locations in oklahoma (ok).
+
+2. yes, the text is related to immigration raids/arrests. it specifically discusses a raid at the south oklahoma city office of a company where federal immigration officials arrested multiple workers and managers as part of a nationwide crackdown.
+
+3. yes, the text mentions a specific date. it states ""friday, april 21st, 2006,"" which is the date when the article about the immigration raid was written by ""news on 6."" however, this is not around the date of 7/19/2016; it is much earlier.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it mentions that ice agents arrested several current and former managers and workers at an ifco systems site as part of their operations.",40109,40,109
+Oklahoma,OK,1/20/2017,01/18/17,02/03/2017,ICE Arrests Stir Fear in Immigrants Wary of Trump Orders,https://www.nbcnews.com/news/latino/ice-arrests-stir-fear-immigrants-wary-trump-orders-n719626,"Feb 10, 2017","1. yes, the text explicitly mentions oklahoma city. it is included in a list of places where increased ice activity was reported.
+
+2. yes, the text is explicitly related to immigration raids and arrests. it discusses the impact of ice arrests on communities, the operations conducted by ice, and the reactions of both organizations and individuals.
+
+3. yes, the text mentions the date ""feb. 10, 2017"" and updates on the activities around that date which is close to 2/8/2017. the article provides information specific to the events and responses around this time period.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses ice's operations and acknowledges their actions during the enforcement surge described.",40109,40,109
+Oklahoma,OK,1/20/2017,01/18/17,02/03/2017,"Under Trump order, immigration agents raid 'target-rich' ...",https://www.dallasnews.com/news/immigration/2017/02/11/under-trump-order-immigration-agents-raid-target-rich-communities-in-texas-elsewhere/,"Feb 10, 2017","1. yes, the text mentions ""oklahoma sooners"" under the section listing various sports teams.
+   
+2. yes, the text is significantly focused on immigration raids and arrests. it discusses a series of raids targeting unauthorized immigrants in at least a half-dozen states, which were the result of president donald trump's executive order aimed at cracking down on unauthorized immigrants.
+
+3. yes, the text mentions specific dates like february 7th and february 10th, 2017. this places it around the mentioned date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice). it details various operations carried out by ice targeting immigration fugitives, re-entrants, and at-large criminal aliens, describing enforcement actions in locations such as los angeles and other states.",40109,40,109
+Oklahoma,OK,1/24/2017,01/22/17,02/07/2017,ICE Arrests Stir Fear in Immigrants Wary of Trump Orders,https://www.nbcnews.com/news/latino/ice-arrests-stir-fear-immigrants-wary-trump-orders-n719626,"Feb 10, 2017","1. yes, the text explicitly mentions oklahoma city. it is included in a list of places where increased ice activity was reported.
+
+2. yes, the text is explicitly related to immigration raids and arrests. it discusses the impact of ice arrests on communities, the operations conducted by ice, and the reactions of both organizations and individuals.
+
+3. yes, the text mentions the date ""feb. 10, 2017"" and updates on the activities around that date which is close to 2/8/2017. the article provides information specific to the events and responses around this time period.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses ice's operations and acknowledges their actions during the enforcement surge described.",40109,40,109
+Oklahoma,OK,1/24/2017,01/22/17,02/07/2017,"The first immigration raids of the Trump era, explained",https://www.vox.com/policy-and-politics/2017/2/14/14596640/immigration-ice-raids,"Feb 14, 2017","1. yes, the text explicitly mentions oklahoma city, oklahoma in the context of locations where ice enforcement sweeps were reported.
+
+2. yes, the text is primarily related to immigration raids and arrests, discussing the specifics and implications of such actions taken by ice in various parts of the united states during the early period of the trump administration.
+
+3. yes, the text references a specific date when mentioning the publication time as ""feb 14, 2017,"" and it discusses events occurring ""in the past week"" from that date, which includes around the date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice), detailing their actions and strategies during the recent sweeps mentioned in the document.",40109,40,109
+Oklahoma,OK,1/25/2017,01/23/17,02/08/2017,ICE Arrests Stir Fear in Immigrants Wary of Trump Orders,https://www.nbcnews.com/news/latino/ice-arrests-stir-fear-immigrants-wary-trump-orders-n719626,"Feb 10, 2017","1. yes, the text explicitly mentions oklahoma city. it is included in a list of places where increased ice activity was reported.
+
+2. yes, the text is explicitly related to immigration raids and arrests. it discusses the impact of ice arrests on communities, the operations conducted by ice, and the reactions of both organizations and individuals.
+
+3. yes, the text mentions the date ""feb. 10, 2017"" and updates on the activities around that date which is close to 2/8/2017. the article provides information specific to the events and responses around this time period.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses ice's operations and acknowledges their actions during the enforcement surge described.",40109,40,109
+Oklahoma,OK,1/25/2017,01/23/17,02/08/2017,"The first immigration raids of the Trump era, explained",https://www.vox.com/policy-and-politics/2017/2/14/14596640/immigration-ice-raids,"Feb 14, 2017","1. yes, the text explicitly mentions oklahoma city, oklahoma in the context of locations where ice enforcement sweeps were reported.
+
+2. yes, the text is primarily related to immigration raids and arrests, discussing the specifics and implications of such actions taken by ice in various parts of the united states during the early period of the trump administration.
+
+3. yes, the text references a specific date when mentioning the publication time as ""feb 14, 2017,"" and it discusses events occurring ""in the past week"" from that date, which includes around the date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice), detailing their actions and strategies during the recent sweeps mentioned in the document.",40109,40,109
+Oklahoma,OK,1/25/2017,01/23/17,02/08/2017,"Under Trump order, immigration agents raid 'target-rich' ...",https://www.dallasnews.com/news/immigration/2017/02/11/under-trump-order-immigration-agents-raid-target-rich-communities-in-texas-elsewhere/,"Feb 10, 2017","1. yes, the text mentions ""oklahoma sooners"" under the section listing various sports teams.
+   
+2. yes, the text is significantly focused on immigration raids and arrests. it discusses a series of raids targeting unauthorized immigrants in at least a half-dozen states, which were the result of president donald trump's executive order aimed at cracking down on unauthorized immigrants.
+
+3. yes, the text mentions specific dates like february 7th and february 10th, 2017. this places it around the mentioned date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice). it details various operations carried out by ice targeting immigration fugitives, re-entrants, and at-large criminal aliens, describing enforcement actions in locations such as los angeles and other states.",40109,40,109
+Oklahoma,OK,1/26/2017,01/24/17,02/09/2017,ICE Arrests Stir Fear in Immigrants Wary of Trump Orders,https://www.nbcnews.com/news/latino/ice-arrests-stir-fear-immigrants-wary-trump-orders-n719626,"Feb 10, 2017","1. yes, the text explicitly mentions oklahoma city. it is included in a list of places where increased ice activity was reported.
+
+2. yes, the text is explicitly related to immigration raids and arrests. it discusses the impact of ice arrests on communities, the operations conducted by ice, and the reactions of both organizations and individuals.
+
+3. yes, the text mentions the date ""feb. 10, 2017"" and updates on the activities around that date which is close to 2/8/2017. the article provides information specific to the events and responses around this time period.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses ice's operations and acknowledges their actions during the enforcement surge described.",40109,40,109
+Oklahoma,OK,1/26/2017,01/24/17,02/09/2017,"The first immigration raids of the Trump era, explained",https://www.vox.com/policy-and-politics/2017/2/14/14596640/immigration-ice-raids,"Feb 14, 2017","1. yes, the text explicitly mentions oklahoma city, oklahoma in the context of locations where ice enforcement sweeps were reported.
+
+2. yes, the text is primarily related to immigration raids and arrests, discussing the specifics and implications of such actions taken by ice in various parts of the united states during the early period of the trump administration.
+
+3. yes, the text references a specific date when mentioning the publication time as ""feb 14, 2017,"" and it discusses events occurring ""in the past week"" from that date, which includes around the date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice), detailing their actions and strategies during the recent sweeps mentioned in the document.",40109,40,109
+Oklahoma,OK,1/30/2017,01/28/17,02/13/2017,ICE Arrests Stir Fear in Immigrants Wary of Trump Orders,https://www.nbcnews.com/news/latino/ice-arrests-stir-fear-immigrants-wary-trump-orders-n719626,"Feb 10, 2017","1. yes, the text explicitly mentions oklahoma city. it is included in a list of places where increased ice activity was reported.
+
+2. yes, the text is explicitly related to immigration raids and arrests. it discusses the impact of ice arrests on communities, the operations conducted by ice, and the reactions of both organizations and individuals.
+
+3. yes, the text mentions the date ""feb. 10, 2017"" and updates on the activities around that date which is close to 2/8/2017. the article provides information specific to the events and responses around this time period.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses ice's operations and acknowledges their actions during the enforcement surge described.",40109,40,109
+Oklahoma,OK,1/30/2017,01/28/17,02/13/2017,"The first immigration raids of the Trump era, explained",https://www.vox.com/policy-and-politics/2017/2/14/14596640/immigration-ice-raids,"Feb 14, 2017","1. yes, the text explicitly mentions oklahoma city, oklahoma in the context of locations where ice enforcement sweeps were reported.
+
+2. yes, the text is primarily related to immigration raids and arrests, discussing the specifics and implications of such actions taken by ice in various parts of the united states during the early period of the trump administration.
+
+3. yes, the text references a specific date when mentioning the publication time as ""feb 14, 2017,"" and it discusses events occurring ""in the past week"" from that date, which includes around the date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice), detailing their actions and strategies during the recent sweeps mentioned in the document.",40109,40,109
+Oklahoma,OK,1/31/2017,01/29/17,02/14/2017,ICE Arrests Stir Fear in Immigrants Wary of Trump Orders,https://www.nbcnews.com/news/latino/ice-arrests-stir-fear-immigrants-wary-trump-orders-n719626,"Feb 10, 2017","1. yes, the text explicitly mentions oklahoma city. it is included in a list of places where increased ice activity was reported.
+
+2. yes, the text is explicitly related to immigration raids and arrests. it discusses the impact of ice arrests on communities, the operations conducted by ice, and the reactions of both organizations and individuals.
+
+3. yes, the text mentions the date ""feb. 10, 2017"" and updates on the activities around that date which is close to 2/8/2017. the article provides information specific to the events and responses around this time period.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses ice's operations and acknowledges their actions during the enforcement surge described.",40109,40,109
+Oklahoma,OK,1/31/2017,01/29/17,02/14/2017,"The first immigration raids of the Trump era, explained",https://www.vox.com/policy-and-politics/2017/2/14/14596640/immigration-ice-raids,"Feb 14, 2017","1. yes, the text explicitly mentions oklahoma city, oklahoma in the context of locations where ice enforcement sweeps were reported.
+
+2. yes, the text is primarily related to immigration raids and arrests, discussing the specifics and implications of such actions taken by ice in various parts of the united states during the early period of the trump administration.
+
+3. yes, the text references a specific date when mentioning the publication time as ""feb 14, 2017,"" and it discusses events occurring ""in the past week"" from that date, which includes around the date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice), detailing their actions and strategies during the recent sweeps mentioned in the document.",40109,40,109
+Oklahoma,OK,2/3/2017,02/01/17,02/17/2017,ICE Arrests Stir Fear in Immigrants Wary of Trump Orders,https://www.nbcnews.com/news/latino/ice-arrests-stir-fear-immigrants-wary-trump-orders-n719626,"Feb 10, 2017","1. yes, the text explicitly mentions oklahoma city. it is included in a list of places where increased ice activity was reported.
+
+2. yes, the text is explicitly related to immigration raids and arrests. it discusses the impact of ice arrests on communities, the operations conducted by ice, and the reactions of both organizations and individuals.
+
+3. yes, the text mentions the date ""feb. 10, 2017"" and updates on the activities around that date which is close to 2/8/2017. the article provides information specific to the events and responses around this time period.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses ice's operations and acknowledges their actions during the enforcement surge described.",40109,40,109
+Oklahoma,OK,2/3/2017,02/01/17,02/17/2017,"The first immigration raids of the Trump era, explained",https://www.vox.com/policy-and-politics/2017/2/14/14596640/immigration-ice-raids,"Feb 14, 2017","1. yes, the text explicitly mentions oklahoma city, oklahoma in the context of locations where ice enforcement sweeps were reported.
+
+2. yes, the text is primarily related to immigration raids and arrests, discussing the specifics and implications of such actions taken by ice in various parts of the united states during the early period of the trump administration.
+
+3. yes, the text references a specific date when mentioning the publication time as ""feb 14, 2017,"" and it discusses events occurring ""in the past week"" from that date, which includes around the date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice), detailing their actions and strategies during the recent sweeps mentioned in the document.",40109,40,109
+Oklahoma,OK,2/3/2017,02/01/17,02/17/2017,"Under Trump order, immigration agents raid 'target-rich' ...",https://www.dallasnews.com/news/immigration/2017/02/11/under-trump-order-immigration-agents-raid-target-rich-communities-in-texas-elsewhere/,"Feb 10, 2017","1. yes, the text mentions ""oklahoma sooners"" under the section listing various sports teams.
+   
+2. yes, the text is significantly focused on immigration raids and arrests. it discusses a series of raids targeting unauthorized immigrants in at least a half-dozen states, which were the result of president donald trump's executive order aimed at cracking down on unauthorized immigrants.
+
+3. yes, the text mentions specific dates like february 7th and february 10th, 2017. this places it around the mentioned date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice). it details various operations carried out by ice targeting immigration fugitives, re-entrants, and at-large criminal aliens, describing enforcement actions in locations such as los angeles and other states.",40109,40,109
+Oklahoma,OK,2/22/2017,02/20/17,03/08/2017,ICE Arrests Stir Fear in Immigrants Wary of Trump Orders,https://www.nbcnews.com/news/latino/ice-arrests-stir-fear-immigrants-wary-trump-orders-n719626,"Feb 10, 2017","1. yes, the text explicitly mentions oklahoma city. it is included in a list of places where increased ice activity was reported.
+
+2. yes, the text is explicitly related to immigration raids and arrests. it discusses the impact of ice arrests on communities, the operations conducted by ice, and the reactions of both organizations and individuals.
+
+3. yes, the text mentions the date ""feb. 10, 2017"" and updates on the activities around that date which is close to 2/8/2017. the article provides information specific to the events and responses around this time period.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses ice's operations and acknowledges their actions during the enforcement surge described.",40109,40,109
+Oklahoma,OK,2/22/2017,02/20/17,03/08/2017,"The first immigration raids of the Trump era, explained",https://www.vox.com/policy-and-politics/2017/2/14/14596640/immigration-ice-raids,"Feb 14, 2017","1. yes, the text explicitly mentions oklahoma city, oklahoma in the context of locations where ice enforcement sweeps were reported.
+
+2. yes, the text is primarily related to immigration raids and arrests, discussing the specifics and implications of such actions taken by ice in various parts of the united states during the early period of the trump administration.
+
+3. yes, the text references a specific date when mentioning the publication time as ""feb 14, 2017,"" and it discusses events occurring ""in the past week"" from that date, which includes around the date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice), detailing their actions and strategies during the recent sweeps mentioned in the document.",40109,40,109
+Oklahoma,OK,3/6/2017,03/04/17,03/20/2017,ICE Arrests Stir Fear in Immigrants Wary of Trump Orders,https://www.nbcnews.com/news/latino/ice-arrests-stir-fear-immigrants-wary-trump-orders-n719626,"Feb 10, 2017","1. yes, the text explicitly mentions oklahoma city. it is included in a list of places where increased ice activity was reported.
+
+2. yes, the text is explicitly related to immigration raids and arrests. it discusses the impact of ice arrests on communities, the operations conducted by ice, and the reactions of both organizations and individuals.
+
+3. yes, the text mentions the date ""feb. 10, 2017"" and updates on the activities around that date which is close to 2/8/2017. the article provides information specific to the events and responses around this time period.
+
+4. yes, the text confirms that the raid was conducted by immigration and customs enforcement (ice). it discusses ice's operations and acknowledges their actions during the enforcement surge described.",40109,40,109
+Oklahoma,OK,3/6/2017,03/04/17,03/20/2017,"The first immigration raids of the Trump era, explained",https://www.vox.com/policy-and-politics/2017/2/14/14596640/immigration-ice-raids,"Feb 14, 2017","1. yes, the text explicitly mentions oklahoma city, oklahoma in the context of locations where ice enforcement sweeps were reported.
+
+2. yes, the text is primarily related to immigration raids and arrests, discussing the specifics and implications of such actions taken by ice in various parts of the united states during the early period of the trump administration.
+
+3. yes, the text references a specific date when mentioning the publication time as ""feb 14, 2017,"" and it discusses events occurring ""in the past week"" from that date, which includes around the date of 2/8/2017.
+
+4. yes, the text confirms that the raids were conducted by immigration and customs enforcement (ice), detailing their actions and strategies during the recent sweeps mentioned in the document.",40109,40,109
