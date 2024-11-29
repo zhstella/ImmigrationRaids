@@ -1,6 +1,7 @@
 # Immigration Raids
 
 **Google Search API and OpenAI API**
+
 We use google search API to generate top 10 URLs with one query “Immigration Raid, countyname, state”.
 
 Advantage: a broader view of articles that is more in line with Dr. Padilla's requirement for diversity in articles, including news, paper, PDFs, social media, and etc. Also this method of searching is the same as Dr. Padilla's team's idea of manual searching.
